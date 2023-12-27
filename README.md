@@ -10,7 +10,7 @@
 <h1 align="center">Objetivo</h1>
 <p>El diseño de "Fylo dark theme" presenta desafíos interesantes en la disposición de elementos, proporcionando una plataforma de entrenamiento perfecta para perfeccionar habilidades en Flexbox y/o Grid. Esta implementación no solo se enfoca en replicar el diseño original, sino también en aplicar técnicas avanzadas para mejorar la estructura del código y la experiencia del usuario.</p>
 <hr>
-<h1 align="center">Características Principale</h1>
+<h1 align="center">Características Principales</h1>
 <ul>
   <li><b>Tema Oscuro:</b>Implementación de un tema oscuro que no solo añade estilo, sino también mejora la legibilidad y la experiencia visual del usuario.</li>
   <li><b>Flexbox y Grid:</b>Uso avanzado de Flexbox y Grid para abordar desafíos de diseño específicos, proporcionando una comprensión profunda de ambas tecnologías.</li>
@@ -29,7 +29,7 @@
 <ol>
   <li>Clona el repositorio a tu máquina local.</li>
   <li>Abre el archivo "index.html" en tu navegador web preferido.</li>
-  <li>Explora las secciones curvas y observa la implementación de los conceptos aprendidos.</li>
+  <li>Explora la página de aterrizaje "Fylo Dark Theme" y observa la implementación de los conceptos aprendidos.</li>
 </ol>
 <p>Este proyecto ha sido una valiosa experiencia de aprendizaje y práctica, contribuyendo al crecimiento y consolidación de habilidades esenciales en el desarrollo frontend.</p>
 <p>Puedes ver la demostración del proyecto <a href="https://jordanmedinaortiz.github.io/FyloDarkThemeLandingPage/">aquí</a></p>
